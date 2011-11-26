@@ -1,0 +1,1 @@
+g_image,g_GameObjectManager,g_run_right,
